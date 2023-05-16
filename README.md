@@ -1,11 +1,18 @@
-- 👋 Hi, I’m Amanda (@amandanagao)!
-- 👀 I'm mainly interested in technology and games.
-- 🌱 I’m currently learning React.js! I learned HTML5, CSS3 and JavaScript through the SheCodes Workshops.
-- I just concluded Brainnest Frontend Development Industry Training as well.
-- 💞️ I’m looking for an opportunity that helps me enter and build a career in the IT industry! I'm new to coding since I wanted to change my professional area.
-- 📫 If you want to reach me, please contact me by email: amandanagao@hotmail.com
+# Hi, I’m Amanda Yumi Nagao! 😊
 
-<!---
-amandanagao/amandanagao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Skills
+<div style="display: inline_block">
+    <img align="center" alt="amandanagao-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="amandanagao-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
+    <img align="center" alt="amandanagao-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
+    <img align="center" alt="amandanagao-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+</div>
+
+### Follow me
+<div> 
+    <a href="https://www.linkedin.com/in/amanda-yumi-nagao" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href = "mailto:amandanagao@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
+<br>
+
+![amandanagao's GitHub stats](https://github-readme-stats.vercel.app/api?username=amandanagao&show_icons=true&theme=merko)
