@@ -5,6 +5,9 @@
     <a href="https://amandanagao.netlify.app" target="_blank">
         <img align="center" alt="amandanagao-HTML" height="30" src="https://img.shields.io/badge/Portfolio-EC7F69">
     </a>
+    <a href="https://github.com/amandanagao/my-portfolio-page" target="_blank">
+        <img align="center" alt="amandanagao-HTML" height="30" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+    </a>
 </div>
 
 ### ⭐ Contact Me
