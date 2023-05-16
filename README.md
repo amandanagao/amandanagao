@@ -10,7 +10,7 @@
     <img align="center" alt="amandanagao-Netlify" height="30" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
 </div>
 
-### Follow me
+### Contact Me
 <div> 
     <a href="https://www.linkedin.com/in/amanda-yumi-nagao" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     <a href = "mailto:amandanagao@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
